@@ -8,6 +8,7 @@
 @import url(Componentes/card.css);
 @import url(Componentes/footer.css);
 @import url(Componentes/nevbar.css);
+@import url(Componentes/Fotos.css);
 
 /* --- Fonts --- */
 body {
@@ -17,4 +18,5 @@ body {
 	background-size: cover;
 	background-position: center;
 }
+
 
